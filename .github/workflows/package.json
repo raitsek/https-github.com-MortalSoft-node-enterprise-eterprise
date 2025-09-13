@@ -1,0 +1,14 @@
+{
+  "name": "mortalsoft-client",
+  "version": "1.0.1",
+  "description": "A node.js wrapper for MortalSoft API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MortalSoft",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
